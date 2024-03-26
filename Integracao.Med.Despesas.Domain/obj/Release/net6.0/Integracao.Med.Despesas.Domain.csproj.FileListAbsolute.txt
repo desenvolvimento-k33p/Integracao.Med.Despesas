@@ -1,0 +1,15 @@
+C:\Users\partner\source\repos\Integracao.Med.Despesas\Integracao.Med.Despesas.Domain\bin\Release\net6.0\Integracao.Med.Despesas.Domain.deps.json
+C:\Users\partner\source\repos\Integracao.Med.Despesas\Integracao.Med.Despesas.Domain\bin\Release\net6.0\Integracao.Med.Despesas.Domain.dll
+C:\Users\partner\source\repos\Integracao.Med.Despesas\Integracao.Med.Despesas.Domain\bin\Release\net6.0\Integracao.Med.Despesas.Domain.pdb
+C:\Users\partner\source\repos\Integracao.Med.Despesas\Integracao.Med.Despesas.Domain\bin\Release\net6.0\Sap.Data.Hana.Core.v2.1.dll
+C:\Users\partner\source\repos\Integracao.Med.Despesas\Integracao.Med.Despesas.Domain\bin\Release\net6.0\Sap.Data.Hana.Core.v2.1.pdb
+C:\Users\partner\source\repos\Integracao.Med.Despesas\Integracao.Med.Despesas.Domain\obj\Release\net6.0\Integracao.Med.Despesas.Domain.csproj.AssemblyReference.cache
+C:\Users\partner\source\repos\Integracao.Med.Despesas\Integracao.Med.Despesas.Domain\obj\Release\net6.0\Integracao.Med.Despesas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\partner\source\repos\Integracao.Med.Despesas\Integracao.Med.Despesas.Domain\obj\Release\net6.0\Integracao.Med.Despesas.Domain.AssemblyInfoInputs.cache
+C:\Users\partner\source\repos\Integracao.Med.Despesas\Integracao.Med.Despesas.Domain\obj\Release\net6.0\Integracao.Med.Despesas.Domain.AssemblyInfo.cs
+C:\Users\partner\source\repos\Integracao.Med.Despesas\Integracao.Med.Despesas.Domain\obj\Release\net6.0\Integracao.Med.Despesas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\partner\source\repos\Integracao.Med.Despesas\Integracao.Med.Despesas.Domain\obj\Release\net6.0\Integracao.Med.Despesas.Domain.csproj.CopyComplete
+C:\Users\partner\source\repos\Integracao.Med.Despesas\Integracao.Med.Despesas.Domain\obj\Release\net6.0\Integracao.Med.Despesas.Domain.dll
+C:\Users\partner\source\repos\Integracao.Med.Despesas\Integracao.Med.Despesas.Domain\obj\Release\net6.0\refint\Integracao.Med.Despesas.Domain.dll
+C:\Users\partner\source\repos\Integracao.Med.Despesas\Integracao.Med.Despesas.Domain\obj\Release\net6.0\Integracao.Med.Despesas.Domain.pdb
+C:\Users\partner\source\repos\Integracao.Med.Despesas\Integracao.Med.Despesas.Domain\obj\Release\net6.0\ref\Integracao.Med.Despesas.Domain.dll

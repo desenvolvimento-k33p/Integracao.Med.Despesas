@@ -1,0 +1,17 @@
+C:\Users\partner\source\repos\Integracao.Med.Despesas\Integracao.Med.Despesas.Core\bin\Release\net6.0\Integracao.Med.Despesas.Core.deps.json
+C:\Users\partner\source\repos\Integracao.Med.Despesas\Integracao.Med.Despesas.Core\bin\Release\net6.0\Integracao.Med.Despesas.Core.dll
+C:\Users\partner\source\repos\Integracao.Med.Despesas\Integracao.Med.Despesas.Core\bin\Release\net6.0\Integracao.Med.Despesas.Core.pdb
+C:\Users\partner\source\repos\Integracao.Med.Despesas\Integracao.Med.Despesas.Core\bin\Release\net6.0\Integracao.Med.Despesas.Domain.dll
+C:\Users\partner\source\repos\Integracao.Med.Despesas\Integracao.Med.Despesas.Core\bin\Release\net6.0\Sap.Data.Hana.Core.v2.1.dll
+C:\Users\partner\source\repos\Integracao.Med.Despesas\Integracao.Med.Despesas.Core\bin\Release\net6.0\Integracao.Med.Despesas.Domain.pdb
+C:\Users\partner\source\repos\Integracao.Med.Despesas\Integracao.Med.Despesas.Core\bin\Release\net6.0\Sap.Data.Hana.Core.v2.1.pdb
+C:\Users\partner\source\repos\Integracao.Med.Despesas\Integracao.Med.Despesas.Core\obj\Release\net6.0\Integracao.Med.Despesas.Core.csproj.AssemblyReference.cache
+C:\Users\partner\source\repos\Integracao.Med.Despesas\Integracao.Med.Despesas.Core\obj\Release\net6.0\Integracao.Med.Despesas.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\partner\source\repos\Integracao.Med.Despesas\Integracao.Med.Despesas.Core\obj\Release\net6.0\Integracao.Med.Despesas.Core.AssemblyInfoInputs.cache
+C:\Users\partner\source\repos\Integracao.Med.Despesas\Integracao.Med.Despesas.Core\obj\Release\net6.0\Integracao.Med.Despesas.Core.AssemblyInfo.cs
+C:\Users\partner\source\repos\Integracao.Med.Despesas\Integracao.Med.Despesas.Core\obj\Release\net6.0\Integracao.Med.Despesas.Core.csproj.CoreCompileInputs.cache
+C:\Users\partner\source\repos\Integracao.Med.Despesas\Integracao.Med.Despesas.Core\obj\Release\net6.0\Integracao.Med.Despesas.Core.csproj.CopyComplete
+C:\Users\partner\source\repos\Integracao.Med.Despesas\Integracao.Med.Despesas.Core\obj\Release\net6.0\Integracao.Med.Despesas.Core.dll
+C:\Users\partner\source\repos\Integracao.Med.Despesas\Integracao.Med.Despesas.Core\obj\Release\net6.0\refint\Integracao.Med.Despesas.Core.dll
+C:\Users\partner\source\repos\Integracao.Med.Despesas\Integracao.Med.Despesas.Core\obj\Release\net6.0\Integracao.Med.Despesas.Core.pdb
+C:\Users\partner\source\repos\Integracao.Med.Despesas\Integracao.Med.Despesas.Core\obj\Release\net6.0\ref\Integracao.Med.Despesas.Core.dll

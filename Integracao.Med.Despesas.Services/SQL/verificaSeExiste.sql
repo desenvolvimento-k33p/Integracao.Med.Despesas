@@ -1,0 +1,1 @@
+﻿select count(*) from "{0}"."OPCH" WHERE IFNULL("U_cod_vexpenses",'') = '{1}';

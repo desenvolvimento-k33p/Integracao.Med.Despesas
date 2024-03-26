@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\partner\source\repos\Integracao.Med.Despesas\Integracao.Med.Despesas\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2024-02-14T14:33:57.1042502Z;True|2024-02-08T15:11:08.0459064-03:00;True|2024-02-08T15:01:24.7451885-03:00;True|2024-02-07T16:52:11.8760551-03:00;True|2024-02-07T14:43:09.2953882-03:00;True|2024-02-05T18:04:45.3045827-03:00;True|2024-02-05T17:49:53.3534683-03:00;True|2024-02-05T17:25:47.9210463-03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

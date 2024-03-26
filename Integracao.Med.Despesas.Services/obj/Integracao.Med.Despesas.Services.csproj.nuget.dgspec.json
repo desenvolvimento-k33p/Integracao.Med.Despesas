@@ -1,0 +1,282 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\partner\\source\\repos\\Integracao.Med.Despesas\\Integracao.Med.Despesas.Services\\Integracao.Med.Despesas.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\partner\\source\\reposIntegracao.Med.Despesas\\Integracao.Med.Despesas.Infra\\Integracao.Med.Despesas.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\partner\\source\\reposIntegracao.Med.Despesas\\Integracao.Med.Despesas.Infra\\Integracao.Med.Despesas.Infra.csproj",
+        "projectName": "Integracao.Med.Despesas.Infra",
+        "projectPath": "C:\\Users\\partner\\source\\reposIntegracao.Med.Despesas\\Integracao.Med.Despesas.Infra\\Integracao.Med.Despesas.Infra.csproj",
+        "packagesPath": "C:\\Users\\partner\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\partner\\source\\reposIntegracao.Med.Despesas\\Integracao.Med.Despesas.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\partner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\partner\\source\\repos\\Integracao.Med.Despesas\\Integracao.Med.Despesas.Core\\Integracao.Med.Despesas.Core.csproj": {
+                "projectPath": "C:\\Users\\partner\\source\\repos\\Integracao.Med.Despesas\\Integracao.Med.Despesas.Core\\Integracao.Med.Despesas.Core.csproj"
+              },
+              "C:\\Users\\partner\\source\\repos\\Integracao.Med.Despesas\\Integracao.Med.Despesas.Domain\\Integracao.Med.Despesas.Domain.csproj": {
+                "projectPath": "C:\\Users\\partner\\source\\repos\\Integracao.Med.Despesas\\Integracao.Med.Despesas.Domain\\Integracao.Med.Despesas.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\partner\\source\\repos\\Integracao.Med.Despesas\\Integracao.Med.Despesas.Core\\Integracao.Med.Despesas.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\partner\\source\\repos\\Integracao.Med.Despesas\\Integracao.Med.Despesas.Core\\Integracao.Med.Despesas.Core.csproj",
+        "projectName": "Integracao.Med.Despesas.Core",
+        "projectPath": "C:\\Users\\partner\\source\\repos\\Integracao.Med.Despesas\\Integracao.Med.Despesas.Core\\Integracao.Med.Despesas.Core.csproj",
+        "packagesPath": "C:\\Users\\partner\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\partner\\source\\repos\\Integracao.Med.Despesas\\Integracao.Med.Despesas.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\partner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\partner\\source\\repos\\Integracao.Med.Despesas\\Integracao.Med.Despesas.Domain\\Integracao.Med.Despesas.Domain.csproj": {
+                "projectPath": "C:\\Users\\partner\\source\\repos\\Integracao.Med.Despesas\\Integracao.Med.Despesas.Domain\\Integracao.Med.Despesas.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.151, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[107.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\partner\\source\\repos\\Integracao.Med.Despesas\\Integracao.Med.Despesas.Domain\\Integracao.Med.Despesas.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\partner\\source\\repos\\Integracao.Med.Despesas\\Integracao.Med.Despesas.Domain\\Integracao.Med.Despesas.Domain.csproj",
+        "projectName": "Integracao.Med.Despesas.Domain",
+        "projectPath": "C:\\Users\\partner\\source\\repos\\Integracao.Med.Despesas\\Integracao.Med.Despesas.Domain\\Integracao.Med.Despesas.Domain.csproj",
+        "packagesPath": "C:\\Users\\partner\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\partner\\source\\repos\\Integracao.Med.Despesas\\Integracao.Med.Despesas.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\partner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\partner\\source\\repos\\Integracao.Med.Despesas\\Integracao.Med.Despesas.Services\\Integracao.Med.Despesas.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\partner\\source\\repos\\Integracao.Med.Despesas\\Integracao.Med.Despesas.Services\\Integracao.Med.Despesas.Services.csproj",
+        "projectName": "Integracao.Med.Despesas.Services",
+        "projectPath": "C:\\Users\\partner\\source\\repos\\Integracao.Med.Despesas\\Integracao.Med.Despesas.Services\\Integracao.Med.Despesas.Services.csproj",
+        "packagesPath": "C:\\Users\\partner\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\partner\\source\\repos\\Integracao.Med.Despesas\\Integracao.Med.Despesas.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\partner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\partner\\source\\reposIntegracao.Med.Despesas\\Integracao.Med.Despesas.Infra\\Integracao.Med.Despesas.Infra.csproj": {
+                "projectPath": "C:\\Users\\partner\\source\\reposIntegracao.Med.Despesas\\Integracao.Med.Despesas.Infra\\Integracao.Med.Despesas.Infra.csproj"
+              },
+              "C:\\Users\\partner\\source\\repos\\Integracao.Med.Despesas\\Integracao.Med.Despesas.Core\\Integracao.Med.Despesas.Core.csproj": {
+                "projectPath": "C:\\Users\\partner\\source\\repos\\Integracao.Med.Despesas\\Integracao.Med.Despesas.Core\\Integracao.Med.Despesas.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

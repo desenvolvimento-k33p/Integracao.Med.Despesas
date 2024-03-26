@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Integracao.Med.Despesas.props" />
+</Project>

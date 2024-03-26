@@ -1,0 +1,64 @@
+﻿{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:9259",
+      "sslPort": 44331
+    }
+  },
+  "profiles": {
+    "Integracao.Med.Despesas": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "applicationUrl": "https://localhost:7077;http://localhost:5102",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning",
+      "Hangfire": "Information"
+    }
+  },
+  "VexpensesServicesSettings": {
+    "VexpensesUrl": "https://api.vexpenses.com/v2/",
+    "VexpensesToken": "22YpQjLoRsBERDLOttswqtjoj1UBNdKNmTbT1ny9pscTP0TuUxZIS6bapQKP",
+    "DataProcessamento": ""
+  },
+  "SapServicesSettings": {
+    "SapUrl": "http://saphamedbeaut10:50001/b1s/v1/",
+    "UserName": "manager",
+    "Password": "Med@21",
+    "CompanyDB": "MEDBEAUTY_TESTE2",
+    "EhAdiantamento": "",
+    "ConnectionString": "DRIVER=HDBODBC32;UID=SYSTEM;PWD=*BQqOK_60EKmK7@;SERVERNODE=saphamedbeaut10:30015;Current Schema=MEDBEAUTY_TESTE2"
+  },
+  "AppConfig": {
+    "ServiceLayer": {
+      "Uri": "http://saphamedbeaut10:50001",
+      "CompanyDB": "MEDBEAUTY_TESTE2",
+      "Language": 19,
+      "Username": "manager",
+      "Password": "Med@21"
+    },
+    "HanaDbConnection": {
+      "Server": "saphamedbeaut10:30015",
+      "UserID": "SYSTEM",
+      "Password": "*BQqOK_60EKmK7@",
+      "Database": "MEDBEAUTY_TESTE2"
+    }
+  },
+  "AllowedHosts": "*"
+}

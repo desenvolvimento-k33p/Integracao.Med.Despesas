@@ -1,0 +1,1 @@
+﻿create column table "MEDBEAUTY_TESTE6"."MED_VEXPENSES"( "DTEXEC" NVARCHAR null, "DTVENC" DATE null, "DTAPROV" DATE null)

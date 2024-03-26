@@ -1,0 +1,1 @@
+﻿select "DTVENC" from "{0}"."MED_VEXPENSES"

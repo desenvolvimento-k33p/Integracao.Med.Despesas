@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4ExakxnBdAi74wz1l+zm2jgzuxXxYmFbQD6b+e0SiNKkP2/TBi2Dn42AOGGQeXF2Z2E3CWV+9aBr6BesM+wa3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\partner\\source\\repos\\Integracao.Med.Despesas\\Integracao.Med.Despesas.Domain\\Integracao.Med.Despesas.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\partner\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512"
+  ],
+  "logs": []
+}
